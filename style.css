@@ -1,0 +1,54 @@
+ body{
+   margin: 0;
+   padding: 0;
+ }
+ .logo img{
+  width: 251px;
+  margin: 14px;
+  position: fixed;
+  z-index: 1;
+ }
+ .vid-bg{
+   position: absolute;
+   object-fit: cover;
+   width: 100vw;
+   height: 100vh;
+   top: 0;
+   left: 0;
+
+ }
+ .fix{
+   clear: both;
+   
+ }
+ header{
+   height: 100vh;
+ }
+ section .works-title{
+   font-family: cursive;
+   font-weight: bold;
+   justify-content: center;
+   display: flex;
+ }
+
+ .works-videos{
+  width: 539px;
+ }
+
+@media only screen and (max-width: 400px){
+
+  .works-videos{
+    max-width: 364px;
+  }
+}
+@media only screen and (max-width: 290px){
+
+  .works-videos{
+    max-width: 274px;
+  }
+}
+
+
+
+
+
