@@ -19,16 +19,21 @@
  }
  .fix{
    clear: both;
+
    
  }
  header{
    height: 100vh;
  }
- section .works-title{
+ .works .works-title{
    font-family: cursive;
    font-weight: bold;
    justify-content: center;
    display: flex;
+ }
+ .works{
+   position: relative;
+   z-index: 45;
  }
 
  .works-videos{
