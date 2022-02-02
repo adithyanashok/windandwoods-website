@@ -40,16 +40,16 @@
   width: 539px;
  }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 810px){
 
   .works-videos{
-    max-width: 364px;
+    max-width: 350px;
   }
 }
-@media only screen and (max-width: 290px){
+@media only screen and (max-width: 375px){
 
   .works-videos{
-    max-width: 274px;
+    max-width: 336px;
   }
 }
 @media only screen and (max-width: 258px){
