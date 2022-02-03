@@ -58,7 +58,7 @@
     max-width: 113px;
   }
 }
-@media only screen and (max-width: 179px){
+@media only screen and (max-width: 179px) and (max-width: 200) {
 
   .works-videos{
     max-width: 82px;
