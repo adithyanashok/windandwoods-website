@@ -40,12 +40,7 @@
   width: 539px;
  }
 
-@media only screen and (max-width: 810px){
 
-  .works-videos{
-    max-width: 187px;
-  }
-}
 @media only screen and (max-width: 375px){
 
   .works-videos{
@@ -79,7 +74,7 @@
 @media only screen and (max-width: 480px) {
 
   .works-videos{
-    max-width: 211px;
+    max-width: 216px;
   }
 }
 
