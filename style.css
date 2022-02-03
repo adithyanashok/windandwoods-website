@@ -43,7 +43,7 @@
 @media only screen and (max-width: 810px){
 
   .works-videos{
-    max-width: 350px;
+    max-width: 187px;
   }
 }
 @media only screen and (max-width: 375px){
@@ -61,7 +61,25 @@
 @media only screen and (max-width: 179px) and (max-width: 200) {
 
   .works-videos{
-    max-width: 80px;
+    max-width: 75px;
+  }
+}
+@media only screen and (max-width: 412px) {
+
+  .works-videos{
+    max-width: 184px;
+  }
+}
+@media only screen and (max-width: 360px) {
+
+  .works-videos{
+    max-width: 157px;
+  }
+}
+@media only screen and (max-width: 480px) {
+
+  .works-videos{
+    max-width: 211px;
   }
 }
 
