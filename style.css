@@ -95,6 +95,12 @@
     max-width: 171px;
   }
 }
+@media only screen and (max-width: 393px) {
+
+  .works-videos{
+    max-width: 171px;
+  }
+}
 
 
 
