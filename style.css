@@ -77,18 +77,7 @@
     z-index: 1;
    }
 }
-@media only screen and (max-width: 412px) {
 
-  .works-videos{
-    width: 182px;
-  }
-  .logo img{
-    width: 134px;
-    margin: 14px;
-    position: fixed;
-    z-index: 1;
-   }
-}
 @media only screen and (max-width: 360px) {
 
   .works-videos{
@@ -167,7 +156,7 @@
     z-index: 1;
    }
 }
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
 
   .works-videos{
     width: 199px;
@@ -178,11 +167,23 @@
     position: fixed;
     z-index: 1;
    }
-}
+} */
 @media only screen and (max-width: 300px) {
   .works-videos{
     width: 130px;
   }
+}
+@media only screen and (max-width: 171px) {
+
+  .works-videos{
+    width: 182px;
+  }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 .bg-img{
   background: url('https://images.squarespace-cdn.com/content/v1/56f65cf85559866730c088c2/1541530435632-XO927BNZPFXG00TYK4ZZ/ezgif.com-video-to-gif.gif');
