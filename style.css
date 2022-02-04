@@ -44,7 +44,7 @@
 @media only screen and (max-width: 375px){
 
   .works-videos{
-    max-width: 171px;
+    width: 171px;
   }
   .logo img{
     width: 134px;
@@ -56,7 +56,7 @@
 @media only screen and (max-width: 258px){
 
   .works-videos{
-    max-width: 113px;
+    width: 113px;
   }
   .logo img{
     width: 134px;
@@ -68,7 +68,7 @@
 @media only screen and (max-width: 179px) and (max-width: 200) {
 
   .works-videos{
-    max-width: 75px;
+    width: 75px;
   }
   .logo img{
     width: 134px;
@@ -80,7 +80,7 @@
 @media only screen and (max-width: 412px) {
 
   .works-videos{
-    max-width: 182px;
+    width: 182px;
   }
   .logo img{
     width: 134px;
@@ -92,7 +92,7 @@
 @media only screen and (max-width: 360px) {
 
   .works-videos{
-    max-width: 154px;
+    width: 154px;
   }
   .logo img{
     width: 134px;
@@ -104,7 +104,7 @@
 @media only screen and (max-width: 480px) {
 
   .works-videos{
-    max-width: 216px;
+    width: 216px;
   }
   .logo img{
     width: 134px;
@@ -116,13 +116,13 @@
 @media only screen and (max-width: 800px) {
 
   .works-videos{
-    max-width: 351px;
+    width: 351px;
   }
 }
 @media only screen and (max-width: 428px) {
 
   .works-videos{
-    max-width: 193px;
+    width: 193px;
   }
   .logo img{
     width: 134px;
@@ -134,7 +134,7 @@
 @media only screen and (max-width: 390px) {
 
   .works-videos{
-    max-width: 171px;
+    width: 171px;
   }
   .logo img{
     width: 136px;
@@ -146,7 +146,7 @@
 @media only screen and (max-width: 393px) {
 
   .works-videos{
-    max-width: 171px;
+    width: 171px;
   }
   .logo img{
     width: 103px;
@@ -158,7 +158,7 @@
 @media only screen and (max-width: 700px) {
 
   .works-videos{
-    max-width: 245px;
+    width: 245px;
   }
   .logo img{
     width: 136px;
@@ -170,7 +170,7 @@
 @media only screen and (max-width: 600px) {
 
   .works-videos{
-    max-width: 199px;
+    width: 199px;
   }
   .logo img{
     width: 136px;
@@ -178,6 +178,11 @@
     position: fixed;
     z-index: 1;
    }
+}
+@media only screen and (max-width: 300px) {
+  .works-videos{
+    width: 130px;
+  }
 }
 .bg-img{
   background: url('https://images.squarespace-cdn.com/content/v1/56f65cf85559866730c088c2/1541530435632-XO927BNZPFXG00TYK4ZZ/ezgif.com-video-to-gif.gif');
