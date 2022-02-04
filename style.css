@@ -37,7 +37,7 @@
  }
 
  .works-videos{
-  width: 539px;
+  width: 500px;
  }
 
 
@@ -46,36 +46,72 @@
   .works-videos{
     max-width: 171px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 258px){
 
   .works-videos{
     max-width: 113px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 179px) and (max-width: 200) {
 
   .works-videos{
     max-width: 75px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 412px) {
 
   .works-videos{
     max-width: 182px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 360px) {
 
   .works-videos{
     max-width: 154px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 480px) {
 
   .works-videos{
     max-width: 216px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 800px) {
 
@@ -88,18 +124,48 @@
   .works-videos{
     max-width: 193px;
   }
+  .logo img{
+    width: 134px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 390px) {
 
   .works-videos{
     max-width: 171px;
   }
+  .logo img{
+    width: 136px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 @media only screen and (max-width: 393px) {
 
   .works-videos{
     max-width: 171px;
   }
+  .logo img{
+    width: 103px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
+}
+@media only screen and (max-width: 700px) {
+
+  .works-videos{
+    max-width: 245px;
+  }
+  .logo img{
+    width: 136px;
+    margin: 14px;
+    position: fixed;
+    z-index: 1;
+   }
 }
 
 
