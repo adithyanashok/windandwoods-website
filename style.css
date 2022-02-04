@@ -83,6 +83,18 @@
     max-width: 351px;
   }
 }
+@media only screen and (max-width: 428px) {
+
+  .works-videos{
+    max-width: 193px;
+  }
+}
+@media only screen and (max-width: 390px) {
+
+  .works-videos{
+    max-width: 171px;
+  }
+}
 
 
 
